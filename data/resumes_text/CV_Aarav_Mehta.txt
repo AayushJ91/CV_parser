@@ -1,0 +1,23 @@
+Aarav Mehta
+Software Engineer (Full-Stack)
+Email: aarav.mehta@gmail.com | Phone: +91 9876543210
+Profile Summary
+Full-Stack Developer with 3+ years of experience in building scalable web applications and
+microservices.
+Education
+B.Tech in Computer Science, IIT Delhi, 2018 - 2022
+Skills
+JavaScript, React, Node.js, Python, SQL, AWS, Git
+Problem Solving Skills
+Strong debugging skills, optimized database queries, designed scalable APIs.
+Work Experience
+Software Engineer, Infosys, Jul 2022 - Present, Worked on full-stack applications, reduced API
+response time by 30%.
+Projects
+E-commerce Platform, Developed a MERN stack e-commerce app with payment integration.
+Certifications
+AWS Certified Developer, Google Cloud Fundamentals
+Awards & Recognitions
+Best Employee - Infosys (2023)
+Hobbies
+Chess, Blogging, Cycling

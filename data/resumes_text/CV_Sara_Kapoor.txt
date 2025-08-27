@@ -1,0 +1,24 @@
+Sara Kapoor
+Data Analyst
+Email: sara.kapoor@gmail.com | Phone: +91 9876501234
+Profile Summary
+Data Analyst with expertise in SQL, Python, and Tableau, experienced in transforming raw data into
+actionable insights.
+Education
+B.Sc in Statistics, University of Mumbai, 2017 - 2020
+M.Sc in Data Science, Christ University, Bangalore, 2020 - 2022
+Skills
+Python, R, SQL, Tableau, Power BI, Excel
+Problem Solving Skills
+Built predictive models, automated reporting pipelines reducing manual effort by 40%.
+Work Experience
+Data Analyst, TCS, 2022 - Present, Performed trend analysis and developed dashboards used by
+10+ departments.
+Projects
+Customer Churn Prediction, Created ML model with 85% accuracy for churn analysis.
+Certifications
+Tableau Desktop Specialist, Microsoft Data Analyst Associate
+Awards & Recognitions
+Data Champion Award - TCS (2023)
+Hobbies
+Reading, Photography, Traveling

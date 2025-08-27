@@ -1,0 +1,13 @@
+Web Developer
+
+Responsibilities:
+- Design, develop, and maintain responsive web applications
+- Collaborate with UI/UX designers to implement user-friendly interfaces
+- Optimize websites for performance and scalability
+- Debug, test, and deploy new features
+
+Requirements:
+- Proficiency in HTML, CSS, and JavaScript
+- Experience with frameworks like React, Angular, or Vue.js
+- Familiarity with backend technologies (Node.js, Django, or similar)
+- Understanding of REST APIs and version control (Git)

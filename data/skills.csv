@@ -1,0 +1,60 @@
+canonical,synonyms
+Python, python|py|python3|cpython
+Java, java|jdk|jre
+C++, c++|cpp
+C, c
+C#, c#|csharp
+JavaScript, javascript|js|ecmascript
+TypeScript, typescript|ts
+HTML, html|html5
+CSS, css|css3
+SQL, sql|ansi sql
+PostgreSQL, postgresql|postgres|psql
+MySQL, mysql
+SQLite, sqlite|sqlite3
+MongoDB, mongodb|mongo
+Redis, redis
+Django, django
+Flask, flask
+FastAPI, fastapi
+Spring, spring|spring boot|spring-boot
+Node.js, node|nodejs|node.js
+Express, express|express.js|expressjs
+React, react|reactjs|react.js
+Angular, angular|angularjs|angular.js
+Vue, vue|vuejs|vue.js
+Next.js, next|nextjs|next.js
+Tailwind CSS, tailwind|tailwindcss
+Bootstrap, bootstrap
+jQuery, jquery
+REST API, rest|restful|rest api
+GraphQL, graphql
+Git, git|github|gitlab|bitbucket
+Linux, linux|unix
+Docker, docker
+Kubernetes, kubernetes|k8s
+CI/CD, cicd|ci cd|github actions|gitlab ci|jenkins|circleci|azure devops
+AWS, aws|amazon web services|ec2|s3|lambda|rds
+Azure, azure|microsoft azure|aks|app service
+GCP, gcp|google cloud|gke|bigquery
+NumPy, numpy
+Pandas, pandas
+scikit-learn, scikit-learn|sklearn
+TensorFlow, tensorflow|tf
+PyTorch, pytorch|torch
+Keras, keras
+NLTK, nltk
+spaCy, spacy
+Transformers, transformers|huggingface|bert|roberta|distilbert
+OpenCV, opencv|cv2
+Power BI, powerbi|power bi
+Tableau, tableau
+Excel, excel|ms excel|microsoft excel|spreadsheets
+Apache Spark, spark|pyspark
+Hadoop, hadoop|hdfs|mapreduce
+Airflow, airflow|apache airflow
+Kafka, kafka|apache kafka
+Elasticsearch, elasticsearch|elastic
+MLflow, mlflow
+SQL Server, sql server|mssql|ms sql
+NoSQL, nosql

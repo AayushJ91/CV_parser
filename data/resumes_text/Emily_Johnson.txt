@@ -1,0 +1,49 @@
+Emily Johnson
+
+Role: Software Engineer
+
+Nationality: American
+
+Profile Summary
+
+Highly motivated Software Engineer with strong problem-solving skills, hands-on experience in relevant technologies, and a passion for continuous learning and innovation.
+
+Education
+
+B.Tech in Computer Science, IIT Bombay, 2019-2023
+
+Skills
+
+Java, Python, C++, Data Structures, Algorithms
+
+Problem Solving Skills
+
+- Strong debugging and analytical skills
+- Competitive programming experience
+- Ability to design scalable solutions
+- Knowledge of system design principles
+
+Work Experience
+
+Software Engineer Intern at ABC Tech Solutions (2022-2023)
+- Worked on real-world projects involving software engineer tasks.
+- Collaborated with team members to build scalable solutions.
+- Gained experience in industry tools and best practices.
+
+Projects
+
+• Library Management System (Java, MySQL)
+• Chat Application (Python, Socket Programming)
+
+Certifications
+
+Google Cloud Professional
+Google Cloud Professional
+
+Awards & Recognitions
+
+Best Paper Award - AI Conference 2023
+
+Hobbies
+
+Music, Chess

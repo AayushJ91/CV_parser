@@ -1,0 +1,49 @@
+David Wilson
+
+Role: AI Engineer
+
+Nationality: American
+
+Profile Summary
+
+Highly motivated AI Engineer with strong problem-solving skills, hands-on experience in relevant technologies, and a passion for continuous learning and innovation.
+
+Education
+
+B.Tech in Computer Science, Carnegie Mellon University, 2019-2023
+
+Skills
+
+Python, TensorFlow, PyTorch, Machine Learning, Deep Learning
+
+Problem Solving Skills
+
+- Strong debugging and analytical skills
+- Competitive programming experience
+- Ability to design scalable solutions
+- Knowledge of system design principles
+
+Work Experience
+
+AI Engineer Intern at ABC Tech Solutions (2022-2023)
+- Worked on real-world projects involving ai engineer tasks.
+- Collaborated with team members to build scalable solutions.
+- Gained experience in industry tools and best practices.
+
+Projects
+
+• Image Classification using CNN
+• Text Sentiment Analysis with RNN
+
+Certifications
+
+Google Cloud Professional
+Oracle Java Certification
+
+Awards & Recognitions
+
+First Prize - Capture The Flag (CTF) Security Contest
+
+Hobbies
+
+Photography, Hiking

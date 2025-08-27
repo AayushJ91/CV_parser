@@ -1,0 +1,49 @@
+Rohit Jha
+
+Role: Prompt Engineer
+
+Nationality: Indian
+
+Profile Summary
+
+Highly motivated Prompt Engineer with strong problem-solving skills, hands-on experience in relevant technologies, and a passion for continuous learning and innovation.
+
+Education
+
+B.Tech in Computer Science, University of California, Berkeley, 2019-2023
+
+Skills
+
+LLM Prompting, NLP, Python, ChatGPT API, LangChain
+
+Problem Solving Skills
+
+- Strong debugging and analytical skills
+- Competitive programming experience
+- Ability to design scalable solutions
+- Knowledge of system design principles
+
+Work Experience
+
+Prompt Engineer Intern at ABC Tech Solutions (2022-2023)
+- Worked on real-world projects involving prompt engineer tasks.
+- Collaborated with team members to build scalable solutions.
+- Gained experience in industry tools and best practices.
+
+Projects
+
+• AI Chatbot using GPT API
+• Automated Resume Screening Prompts
+
+Certifications
+
+Certified Kubernetes Administrator
+TensorFlow Developer Certificate
+
+Awards & Recognitions
+
+Best Paper Award - AI Conference 2023
+
+Hobbies
+
+Traveling, Reading Tech Blogs
