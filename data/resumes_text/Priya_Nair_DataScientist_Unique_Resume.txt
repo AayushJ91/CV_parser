@@ -1,0 +1,28 @@
+Priya Nair
+Chennai | +91-982005005 | priya.nair@gmail.com
+https://linkedin.com/in/priya-nair | https://github.com/priyan99
+SUMMARY
+Entry-level Data Scientist skilled in Python, R, and Power BI, eager to apply analytical thinking to real-world datasets.
+TECHNICAL SKILLS
+Programming: Python, R, SQL
+Machine Learning: Supervised Learning, Feature Engineering, Model Evaluation
+Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
+Visualization: Excel, Tableau, Seaborn
+Big Data & Cloud: AWS, Databricks, Snowflake
+MLOps: Git, MLflow, Streamlit, Docker
+Soft Skills: Attention to Detail, Curiosity, Presentation, Collaboration
+EDUCATION
+M.Sc in Data Science | University of Mumbai | CGPA 8.1/10 | 2022
+EXPERIENCE
+Machine Learning Intern — DeepCore Labs (2024)
+(cid:127) Implemented CNN and LSTM architectures for image and text classification
+(cid:127) Contributed to cloud deployment using Docker and TensorFlow Serving
+PROJECTS
+Sales Forecasting — Python, XGBoost
+(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%
+Fraud Detection System — Python, Scikit-learn, Power BI
+(cid:127) Built ML model to detect fraudulent transactions and visualized real-time results
+CERTIFICATIONS
+(cid:127) AWS Certified Machine Learning Specialty
+(cid:127) Applied Data Science with Python — University of Michigan
+(cid:127) TensorFlow Developer Certificate — Google

@@ -1,0 +1,39 @@
+Name: Ananya Sharma
+Business Analyst | Indian
+Pune, India | ananya.sharma@insightlabs.in | +91 99456 78901
+PROFILE SUMMARY
+Experienced Business Analyst with over 5 years of expertise in data analytics, process improvement, and
+strategic consulting. Skilled at bridging the gap between business objectives and data-driven solutions,
+delivering measurable value across multiple industries.
+EDUCATION
+MBA in Business Analytics, IIM Bangalore, 2018–2020
+B.Tech in Information Systems, Anna University, 2014–2018
+KEY SKILLS
+(cid:127) Business Process Modeling & Optimization
+(cid:127) Data Visualization (Power BI, Tableau)
+(cid:127) SQL, Python (Pandas, NumPy)
+(cid:127) Requirements Gathering & Documentation
+(cid:127) Agile & Scrum Methodologies
+(cid:127) Stakeholder Communication
+(cid:127) KPI Design and Performance Tracking
+WORK EXPERIENCE
+InfoServe Pvt. Ltd. | Senior Business Analyst (2020–Present)
+(cid:127) Led data analytics initiatives improving process efficiency by 18%.
+(cid:127) Collaborated with cross-functional teams to translate business requirements into BI solutions.
+(cid:127) Developed forecasting models to enhance decision-making accuracy.
+(cid:127) Presented actionable insights to executive stakeholders to drive KPIs.
+StratEdge Advisory | Senior Business Analyst (2020–Present)
+(cid:127) Led data analytics initiatives improving process efficiency by 18%.
+(cid:127) Collaborated with cross-functional teams to translate business requirements into BI solutions.
+(cid:127) Developed forecasting models to enhance decision-making accuracy.
+(cid:127) Presented actionable insights to executive stakeholders to drive KPIs.
+PROJECTS
+(cid:127) Revenue Growth Strategy
+(cid:127) Competitor Benchmarking Report
+CERTIFICATIONS
+(cid:127) Data Visualization with Tableau
+(cid:127) Microsoft Power BI Expert
+AWARDS & RECOGNITIONS
+Business Impact Award 2024
+HOBBIES & INTERESTS
+Yoga, Movies

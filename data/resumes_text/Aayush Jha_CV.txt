@@ -1,0 +1,71 @@
+Aayush Jha
+
++91 9987054087 | aayushjha2431@gmail.com | Linkedin: https://www.linkedin.com/in/aayush-jha-a79a771b7/
+
+
+
+Education
+
+	Indian Institute of Information Technology, Dharwad Bachelor of Technology in Data Science and Artificial Engineering (DSAI)
+
+	Expected Graduation: Aug 2028
+
+Relevant Coursework: Data Structures, Algorithms, Machine Learning 
+
+
+
+Skills
+
+Programming Languages: Java, Python
+
+Libraries: Pandas, NumPy, Scikit-learn
+
+Tools & Technologies: Git, Jupyter Notebooks, Tableau
+
+Concepts: Data Structures, Algorithms, Machine Learning, Exploratory Data Analysis (EDA), Linear Regression
+
+
+
+Projects
+
+Linear Regression Model from Scratch
+
+Developed a linear regression model using Python without relying on external machine learning libraries.
+
+Implemented core concepts of linear regression, including calculating coefficients and evaluating model performance.
+
+This project demonstrates a foundational understanding of machine learning algorithms.
+
+Following is the GitHub link of the repo: https://github.com/AayushJ91/ML_Projects.git
+
+
+
+Exploratory Data Analysis (EDA) Projects
+
+Utilized Python libraries like Pandas and NumPy to perform data cleaning, manipulation, and analysis on various datasets.
+
+Applied data visualization techniques to uncover patterns and insights.
+
+Showcased proficiency in data preprocessing, a crucial step in the machine learning pipeline.
+
+Following is the GitHub repo: https://github.com/AayushJ91/AI-ML.git
+
+
+
+Certifications and Badges
+
+Prompt Design in Vertex AI Skill Badge (Google Cloud): Demonstrated expertise in designing and implementing prompts for AI models on Google Cloud's Vertex AI platform.
+
+Data Visualization using Python (Tata Consultancy Services): Completed a certification on using Python for data visualization, enhancing skills in communicating data insights.
+
+Intro to Machine Learning & Pandas (Kaggle): Gained foundational knowledge in machine learning concepts and practical experience with the Pandas library for data manipulation.
+
+Data Analytics Job Simulation (Deloitte): Participated in a virtual work experience program, applying data analytics techniques to solve a real-world business problem.
+
+LeetCode 50-Day Badge: Achieved a 50-day streak badge on LeetCode, highlighting consistent practice and dedication to improving problem-solving and algorithmic skills.
+
+
+
+Technical Achievements
+
+LeetCode: Solved 80+ problems in Java, demonstrating strong problem-solving skills and a solid grasp of data structures and algorithms.

@@ -1,0 +1,13 @@
+{
+    "Name": "Ravi Mehta",
+    "Email": [
+        "ravi.mehta@gmail.com"
+    ],
+    "Sector": "Data Scientist",
+    "Experience": "Junior Data Scientist — Finlytics Pvt Ltd (2023–Present)\n(cid:127) Assisted in developing regression and classification models for credit risk analysis\n(cid:127) Automated data cleaning and preprocessing scripts with Pandas and SQL",
+    "Skills": ": Attention to Detail, Curiosity, Presentation, Collaboration",
+    "Education": "B.Tech in Computer Science | IIIT Bangalore | CGPA 8.3/10 | 2023",
+    "Projects": "Chatbot Development — Python, NLP, Flask\n(cid:127) Built intent classification system and deployed interactive chatbot API\nSales Forecasting — Python, XGBoost\n(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%",
+    "Certifications": "(cid:127) Applied Data Science with Python — University of Michigan\n(cid:127) TensorFlow Developer Certificate — Google\n(cid:127) IBM Data Science Professional Certificate — Coursera",
+    "Score": 100.0
+}

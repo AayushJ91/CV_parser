@@ -1,0 +1,13 @@
+{
+    "Name": "Amit Khanna",
+    "Email": [
+        "amit.khanna@gmail.com"
+    ],
+    "Sector": "Data Scientist",
+    "Skills": ": Leadership, Data Storytelling, Problem Solving",
+    "Education": "M.Tech in Artificial Intelligence | IIT Hyderabad | CGPA 8.9/10 | 2024",
+    "Experience": "Junior Data Scientist — Finlytics Pvt Ltd (2023–Present)\n(cid:127) Assisted in developing regression and classification models for credit risk analysis\n(cid:127) Automated data cleaning and preprocessing scripts with Pandas and SQL",
+    "Projects": "Sales Forecasting — Python, XGBoost\n(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%\nStock Price Prediction — Python, TensorFlow, Keras\n(cid:127) Implemented LSTM-based forecasting model achieving 92% accuracy",
+    "Certifications": "(cid:127) Applied Data Science with Python — University of Michigan\n(cid:127) TensorFlow Developer Certificate — Google\n(cid:127) IBM Data Science Professional Certificate — Coursera",
+    "Score": 97.99
+}

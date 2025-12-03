@@ -1,0 +1,13 @@
+{
+    "Name": "Arjun Patel",
+    "Email": [
+        "arjun.patel@gmail.com"
+    ],
+    "Sector": "Data Scientist",
+    "Experience": "Machine Learning Intern — DeepCore Labs (2024)\n(cid:127) Implemented CNN and LSTM architectures for image and text classification\n(cid:127) Contributed to cloud deployment using Docker and TensorFlow Serving",
+    "Skills": ": Leadership, Data Storytelling, Problem Solving",
+    "Education": "B.Tech in Computer Science | IIIT Bangalore | CGPA 8.3/10 | 2023",
+    "Projects": "Fraud Detection System — Python, Scikit-learn, Power BI\n(cid:127) Built ML model to detect fraudulent transactions and visualized real-time results\nSales Forecasting — Python, XGBoost\n(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%",
+    "Certifications": "(cid:127) IBM Data Science Professional Certificate — Coursera\n(cid:127) AWS Certified Machine Learning Specialty\n(cid:127) TensorFlow Developer Certificate — Google",
+    "Score": 95.0
+}

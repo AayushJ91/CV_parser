@@ -1,0 +1,28 @@
+Ravi Mehta
+Pune | +91-982005002 | ravi.mehta@gmail.com
+https://linkedin.com/in/ravi-mehta | https://github.com/ravim99
+SUMMARY
+Experienced Data Analyst transitioning into Data Science with solid skills in SQL, predictive modeling, and data storytelling.
+TECHNICAL SKILLS
+Programming: Python, R, SQL
+Machine Learning: Supervised Learning, Feature Engineering, Model Evaluation
+Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
+Visualization: Excel, Tableau, Seaborn
+Big Data & Cloud: AWS, Databricks, Snowflake
+MLOps: Git, MLflow, Streamlit, Docker
+Soft Skills: Attention to Detail, Curiosity, Presentation, Collaboration
+EDUCATION
+B.Tech in Computer Science | IIIT Bangalore | CGPA 8.3/10 | 2023
+EXPERIENCE
+Junior Data Scientist — Finlytics Pvt Ltd (2023–Present)
+(cid:127) Assisted in developing regression and classification models for credit risk analysis
+(cid:127) Automated data cleaning and preprocessing scripts with Pandas and SQL
+PROJECTS
+Chatbot Development — Python, NLP, Flask
+(cid:127) Built intent classification system and deployed interactive chatbot API
+Sales Forecasting — Python, XGBoost
+(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%
+CERTIFICATIONS
+(cid:127) Applied Data Science with Python — University of Michigan
+(cid:127) TensorFlow Developer Certificate — Google
+(cid:127) IBM Data Science Professional Certificate — Coursera

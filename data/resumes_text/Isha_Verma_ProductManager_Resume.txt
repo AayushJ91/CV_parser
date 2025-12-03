@@ -1,0 +1,23 @@
+Isha Verma
+Delhi | +91-9838876853 | isha.verma@gmail.com
+https://linkedin.com/in/isha-verma | Portfolio: behance.net/isha
+SUMMARY
+Seasoned Product Manager experienced in B2B and B2C applications with a focus on feature prioritization and stakeholder alignment.
+KEY SKILLS
+Core Skills: Product Strategy, Market Research, Agile/Scrum, Wireframing, User Stories
+Tools: JIRA, Confluence, Figma, Trello, Notion, Power BI, SQL
+Analytics: A/B Testing, Data Visualization, Funnel Analysis, KPI Tracking
+Soft Skills: Leadership, Communication, Stakeholder Management, Collaboration
+EDUCATION
+B.Tech in Computer Science | IIT Delhi | 2021
+EXPERIENCE
+Product Manager — Zentech Solutions (2022–Present)
+(cid:127) Defined roadmap and implemented analytics dashboard increasing engagement by 30%
+(cid:127) Collaborated with design and engineering teams to optimize onboarding process
+PROJECTS
+Fintech Mobile App — Coordinated feature rollout across Android & iOS platforms ensuring user adoption.
+E-commerce Personalization Engine — Built ML-based recommendation module improving CTR by 22%.
+CERTIFICATIONS
+Agile Product Management — Udemy
+Certified Scrum Product Owner (CSPO)
+Product Strategy — Kellogg School of Management

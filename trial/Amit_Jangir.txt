@@ -1,0 +1,49 @@
+Amit Jangir
+
+Role: Cybersecurity Engineer
+
+Nationality: Indian
+
+Profile Summary
+
+Highly motivated Cybersecurity Engineer with strong problem-solving skills, hands-on experience in relevant technologies, and a passion for continuous learning and innovation.
+
+Education
+
+B.Tech in Computer Science, Massachusetts Institute of Technology (MIT), 2019-2023
+
+Skills
+
+Network Security, Penetration Testing, Kali Linux, Cryptography, SIEM Tools
+
+Problem Solving Skills
+
+- Strong debugging and analytical skills
+- Competitive programming experience
+- Ability to design scalable solutions
+- Knowledge of system design principles
+
+Work Experience
+
+Cybersecurity Engineer Intern at ABC Tech Solutions (2022-2023)
+- Worked on real-world projects involving cybersecurity engineer tasks.
+- Collaborated with team members to build scalable solutions.
+- Gained experience in industry tools and best practices.
+
+Projects
+
+• Secure File Transfer System
+• Intrusion Detection System
+
+Certifications
+
+TensorFlow Developer Certificate
+Certified Ethical Hacker (CEH)
+
+Awards & Recognitions
+
+Winner - National Hackathon 2022
+
+Hobbies
+
+Coding Competitions, Gaming

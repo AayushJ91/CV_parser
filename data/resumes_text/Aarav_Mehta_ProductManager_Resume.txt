@@ -1,0 +1,23 @@
+Aarav Mehta
+Mumbai | +91-9894961575 | aarav.mehta@gmail.com
+https://linkedin.com/in/aarav-mehta | Portfolio: behance.net/aarav
+SUMMARY
+MBA graduate with background in software engineering and interest in data-driven product design and strategy.
+KEY SKILLS
+Core Skills: Product Discovery, Competitive Analysis, Design Thinking, Prioritization
+Tools: Figma, Jira, Aha!, Mixpanel, Slack, Miro
+Analytics: Funnel Optimization, Churn Analysis, Growth Experiments
+Soft Skills: Empathy, Strategic Vision, Negotiation, Agile Mindset
+EDUCATION
+B.Tech in Computer Science | IIT Delhi | 2021
+EXPERIENCE
+Product Owner — Finlytics (2020–2022)
+(cid:127) Managed cross-functional teams across sprints
+(cid:127) Led development of a new payments feature resulting in $1.2M ARR growth
+PROJECTS
+SaaS Analytics Platform — Designed data visualization system enabling clients to track KPIs in real time.
+Fintech Mobile App — Coordinated feature rollout across Android & iOS platforms ensuring user adoption.
+CERTIFICATIONS
+Certified Scrum Product Owner (CSPO)
+Google Project Management Certificate — Coursera
+Product Strategy — Kellogg School of Management

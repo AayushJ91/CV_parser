@@ -1,0 +1,13 @@
+{
+    "Name": "Ananya Das",
+    "Email": [
+        "ananya.das@gmail.com"
+    ],
+    "Sector": "Data Scientist",
+    "Skills": ": Attention to Detail, Curiosity, Presentation, Collaboration",
+    "Education": "M.Tech in Artificial Intelligence | IIT Hyderabad | CGPA 8.9/10 | 2024",
+    "Experience": "Junior Data Scientist — Finlytics Pvt Ltd (2023–Present)\n(cid:127) Assisted in developing regression and classification models for credit risk analysis\n(cid:127) Automated data cleaning and preprocessing scripts with Pandas and SQL",
+    "Projects": "Sales Forecasting — Python, XGBoost\n(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%\nChatbot Development — Python, NLP, Flask\n(cid:127) Built intent classification system and deployed interactive chatbot API",
+    "Certifications": "(cid:127) AWS Certified Machine Learning Specialty\n(cid:127) IBM Data Science Professional Certificate — Coursera\n(cid:127) Python for Data Science — NPTEL",
+    "Score": 97.22
+}

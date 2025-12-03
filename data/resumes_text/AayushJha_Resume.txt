@@ -1,0 +1,57 @@
+Aayush Jha
+aayushjha2431@gmail.com | +91 9987054087 | Dharwad
+CAREER OBJECTIVE
+2nd-year B.Tech (CSE) student at IIIT Dharwad, aspiring ML Engineer. Skilled in Python, data cleaning, exploratory data analysis (EDA),
+and ML model building. Looking for Data Analyst / ML Internships (remote/part-time) to apply skills and grow in AI/ML.
+EDUCATION
+B.Tech, 2024 - 2028
+Indian Institute Of Information Technology Dharwad
+TRAININGS / CERTIFICATIONS
+Intro To Machine Learning Prompt Design In Vertex AI
+Jul 2025 Jul 2025
+Kaggle, Virtual Google Cloud, Virtual
+Learned fundamentals of supervised learning, model evaluation, Skill badge covering prompt engineering, LLM-based solutions,
+and data preprocessing. and AI workflows in Vertex AI.
+Data Visualisation: Empowering Business With Pandas
+Insights Jul 2025 - Sep 2025
+Jul 2025 Kaggle, Virtual
+TATA (Forage Virtual Program), Virtual
+Gained hands-on experience with pandas for data cleaning,
+Practical tasks in framing business scenarios, choosing visuals, merging, grouping, and exploratory data analysis.
+and communicating insights effectively.
+Data Analytics & Forensic Technology Job
+Simulation
+Jun 2025
+Deloitte (Forage Virtual Program), Virtual
+Completed simulation tasks on data analysis, forensic
+investigation, and real-world problem-solving.
+PROJECTS
+Data Cleaning & Preprocessing ↗ EDA for titanic dataset ↗
+Aug 2025 - Sep 2025 Aug 2025 - Sep 2025
+Cleaned and preprocessed raw datasets: handled missing Did the Exploratory Data Analysis for the dataset Titanic.
+values, removed duplicates, standardized categorical values Found all the insights from the dataset
+and fixed data types.
+Implemented functions for bulk Excel/CSV processing and
+automated common file operartions
+Classification Models ↗ learnt and implemented Ensemble Learnings ↗
+Aug 2025 - Sep 2025 Sep 2025
+Worked with Iris dataset. Used a real life dataset - Bangalore EEG Epilepsy Dataset
+Implemented Different Classification Models - Logistic (BEED)
+Regression, KNN, Decision Tree, SVM Cleaned the dataset and did an EDA before implementing the
+Evaluated the confusion matrix and different scores models
+Used sklean.ensemble for - Random Forest and Gradient
+Boosting
+Still ongoing for the integration of Streamlit
+Page - 1/2
+Housing Dataset Price Prediction ↗
+Aug 2025 - Present
+Implemented Linear Regression (with and without Polynomial
+Features) using scikit-learn.
+used dataset from sklearn.datasets
+Applied Pipeline, evaluated using: MSE and R square
+SKILLS
+• Python • Pandas • NumPy
+• Matplotlib • Jupyter Notebook • Data Cleaning
+• Data Analysis • Git • GitHub
+• scikit-learn • Machine Learning
+Page - 2/2

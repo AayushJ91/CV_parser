@@ -1,0 +1,13 @@
+{
+    "Name": "Neha Sharma",
+    "Email": [
+        "neha.sharma@gmail.com"
+    ],
+    "Sector": "Data Scientist",
+    "Experience": "Junior Data Scientist — Finlytics Pvt Ltd (2023–Present)\n(cid:127) Assisted in developing regression and classification models for credit risk analysis\n(cid:127) Automated data cleaning and preprocessing scripts with Pandas and SQL",
+    "Skills": ": Leadership, Data Storytelling, Problem Solving",
+    "Education": "B.Tech in Information Technology | VIT Vellore | CGPA 8.5/10 | 2024",
+    "Projects": "Fraud Detection System — Python, Scikit-learn, Power BI\n(cid:127) Built ML model to detect fraudulent transactions and visualized real-time results\nChatbot Development — Python, NLP, Flask\n(cid:127) Built intent classification system and deployed interactive chatbot API",
+    "Certifications": "(cid:127) IBM Data Science Professional Certificate — Coursera\n(cid:127) Applied Data Science with Python — University of Michigan\n(cid:127) Python for Data Science — NPTEL",
+    "Score": 97.57
+}

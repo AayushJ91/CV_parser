@@ -1,0 +1,28 @@
+Riya Malhotra
+Jaipur | +91-982005009 | riya.malhotra@gmail.com
+https://linkedin.com/in/riya-malhotra | https://github.com/riyam99
+SUMMARY
+Experienced Data Analyst transitioning into Data Science with solid skills in SQL, predictive modeling, and data storytelling.
+TECHNICAL SKILLS
+Programming: Python, R, SQL, Java, C++
+Machine Learning: Regression, Classification, Clustering, NLP, Deep Learning, Computer Vision
+Libraries: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
+Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+Big Data & Cloud: AWS, GCP, Azure, Spark, Hadoop, Databricks
+MLOps: MLflow, Airflow, Docker, Kubernetes, DVC, Git, Jenkins
+Soft Skills: Analytical Thinking, Problem Solving, Teamwork, Communication
+EDUCATION
+B.Tech in Information Technology | VIT Vellore | CGPA 8.5/10 | 2024
+EXPERIENCE
+Data Analyst — RetailX Analytics (2020–2023)
+(cid:127) Built dashboards in Power BI and Tableau to visualize KPIs
+(cid:127) Supported A/B testing and statistical modeling to optimize marketing ROI
+PROJECTS
+Sales Forecasting — Python, XGBoost
+(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%
+Customer Segmentation — R, Tableau
+(cid:127) Used K-Means clustering to segment users for targeted marketing
+CERTIFICATIONS
+(cid:127) IBM Data Science Professional Certificate — Coursera
+(cid:127) TensorFlow Developer Certificate — Google
+(cid:127) Applied Data Science with Python — University of Michigan

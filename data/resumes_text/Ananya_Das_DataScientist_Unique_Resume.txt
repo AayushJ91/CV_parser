@@ -1,0 +1,28 @@
+Ananya Das
+Ahmedabad | +91-982005007 | ananya.das@gmail.com
+https://linkedin.com/in/ananya-das | https://github.com/ananyad99
+SUMMARY
+Machine Learning Engineer with strong knowledge of NLP, deep learning, and MLOps practices using TensorFlow and Docker.
+TECHNICAL SKILLS
+Programming: Python, R, SQL
+Machine Learning: Supervised Learning, Feature Engineering, Model Evaluation
+Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
+Visualization: Excel, Tableau, Seaborn
+Big Data & Cloud: AWS, Databricks, Snowflake
+MLOps: Git, MLflow, Streamlit, Docker
+Soft Skills: Attention to Detail, Curiosity, Presentation, Collaboration
+EDUCATION
+M.Tech in Artificial Intelligence | IIT Hyderabad | CGPA 8.9/10 | 2024
+EXPERIENCE
+Junior Data Scientist — Finlytics Pvt Ltd (2023–Present)
+(cid:127) Assisted in developing regression and classification models for credit risk analysis
+(cid:127) Automated data cleaning and preprocessing scripts with Pandas and SQL
+PROJECTS
+Sales Forecasting — Python, XGBoost
+(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%
+Chatbot Development — Python, NLP, Flask
+(cid:127) Built intent classification system and deployed interactive chatbot API
+CERTIFICATIONS
+(cid:127) AWS Certified Machine Learning Specialty
+(cid:127) IBM Data Science Professional Certificate — Coursera
+(cid:127) Python for Data Science — NPTEL

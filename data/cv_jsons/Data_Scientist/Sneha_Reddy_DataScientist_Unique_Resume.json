@@ -1,0 +1,13 @@
+{
+    "Name": "Sneha Reddy",
+    "Email": [
+        "sneha.reddy@gmail.com"
+    ],
+    "Sector": "Data Scientist",
+    "Skills": ": Leadership, Data Storytelling, Problem Solving",
+    "Education": "B.Sc in Statistics | Delhi University | CGPA 8.7/10 | 2021",
+    "Experience": "Data Scientist — Quantify AI (2022–Present)\n(cid:127) Developed machine learning pipelines for customer churn prediction improving retention by 15%\n(cid:127) Deployed NLP-based recommendation engine using AWS SageMaker and MLflow",
+    "Projects": "Chatbot Development — Python, NLP, Flask\n(cid:127) Built intent classification system and deployed interactive chatbot API\nSales Forecasting — Python, XGBoost\n(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%",
+    "Certifications": "(cid:127) Applied Data Science with Python — University of Michigan\n(cid:127) IBM Data Science Professional Certificate — Coursera\n(cid:127) Python for Data Science — NPTEL",
+    "Score": 94.42
+}

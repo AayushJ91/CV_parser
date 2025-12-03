@@ -1,0 +1,28 @@
+Sneha Reddy
+Hyderabad | +91-982005003 | sneha.reddy@gmail.com
+https://linkedin.com/in/sneha-reddy | https://github.com/snehar99
+SUMMARY
+Entry-level Data Scientist skilled in Python, R, and Power BI, eager to apply analytical thinking to real-world datasets.
+TECHNICAL SKILLS
+Programming: Python, Scala, SQL, R
+Machine Learning: Forecasting, Clustering, Deep Learning, LLM Integration
+Libraries: PyTorch, Hugging Face, NLTK, SpaCy, Transformers
+Visualization: Power BI, Looker, Matplotlib
+Big Data & Cloud: GCP, BigQuery, Spark, Kafka
+MLOps: Airflow, Docker, Jenkins, Kubernetes
+Soft Skills: Leadership, Data Storytelling, Problem Solving
+EDUCATION
+B.Sc in Statistics | Delhi University | CGPA 8.7/10 | 2021
+EXPERIENCE
+Data Scientist — Quantify AI (2022–Present)
+(cid:127) Developed machine learning pipelines for customer churn prediction improving retention by 15%
+(cid:127) Deployed NLP-based recommendation engine using AWS SageMaker and MLflow
+PROJECTS
+Chatbot Development — Python, NLP, Flask
+(cid:127) Built intent classification system and deployed interactive chatbot API
+Sales Forecasting — Python, XGBoost
+(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%
+CERTIFICATIONS
+(cid:127) Applied Data Science with Python — University of Michigan
+(cid:127) IBM Data Science Professional Certificate — Coursera
+(cid:127) Python for Data Science — NPTEL

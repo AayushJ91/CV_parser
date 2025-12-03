@@ -1,0 +1,28 @@
+Karthik Rao
+Noida | +91-982005008 | karthik.rao@gmail.com
+https://linkedin.com/in/karthik-rao | https://github.com/karthikr99
+SUMMARY
+Passionate Data Scientist skilled in statistical modeling, data visualization, and cloud-based ML workflows.
+TECHNICAL SKILLS
+Programming: Python, Scala, SQL, R
+Machine Learning: Forecasting, Clustering, Deep Learning, LLM Integration
+Libraries: PyTorch, Hugging Face, NLTK, SpaCy, Transformers
+Visualization: Power BI, Looker, Matplotlib
+Big Data & Cloud: GCP, BigQuery, Spark, Kafka
+MLOps: Airflow, Docker, Jenkins, Kubernetes
+Soft Skills: Leadership, Data Storytelling, Problem Solving
+EDUCATION
+B.Tech in Computer Science | IIIT Bangalore | CGPA 8.3/10 | 2023
+EXPERIENCE
+Machine Learning Intern — DeepCore Labs (2024)
+(cid:127) Implemented CNN and LSTM architectures for image and text classification
+(cid:127) Contributed to cloud deployment using Docker and TensorFlow Serving
+PROJECTS
+Sales Forecasting — Python, XGBoost
+(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%
+Stock Price Prediction — Python, TensorFlow, Keras
+(cid:127) Implemented LSTM-based forecasting model achieving 92% accuracy
+CERTIFICATIONS
+(cid:127) IBM Data Science Professional Certificate — Coursera
+(cid:127) AWS Certified Machine Learning Specialty
+(cid:127) Python for Data Science — NPTEL

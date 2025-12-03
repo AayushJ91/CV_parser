@@ -14,12 +14,12 @@ import spacy
 
 # Load once, reuse everywhere (faster)
 @lru_cache(maxsize=1)
-def get_nlp(model: str = "en_core_web_sm", disable: Iterable[str] = ()):
+def get_nlp(disable: Iterable[str] = ()):
     """
     Load and cache a spaCy pipeline. 
     Tip: disable components you don't need to speed up, e.g. disable=("tagger","parser","lemmatizer")
     """
-    return spacy.load(model, disable=list(disable))
+    return spacy.load('en_core_web_trf', disable=list(disable))
 
 def extract_entities(text: str, labels: Iterable[str] = None) -> List[Tuple[str, str]]:
     """

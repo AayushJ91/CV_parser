@@ -1,0 +1,13 @@
+{
+    "Name": "Vikas Singh",
+    "Email": [
+        "vikas.singh@gmail.com"
+    ],
+    "Sector": "Data Scientist",
+    "Skills": ": Leadership, Data Storytelling, Problem Solving",
+    "Education": "M.Sc in Data Science | University of Mumbai | CGPA 8.1/10 | 2022",
+    "Experience": "Data Scientist — Quantify AI (2022–Present)\n(cid:127) Developed machine learning pipelines for customer churn prediction improving retention by 15%\n(cid:127) Deployed NLP-based recommendation engine using AWS SageMaker and MLflow",
+    "Projects": "Sales Forecasting — Python, XGBoost\n(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%\nFraud Detection System — Python, Scikit-learn, Power BI\n(cid:127) Built ML model to detect fraudulent transactions and visualized real-time results",
+    "Certifications": "(cid:127) Python for Data Science — NPTEL\n(cid:127) Applied Data Science with Python — University of Michigan\n(cid:127) TensorFlow Developer Certificate — Google",
+    "Score": 98.21
+}

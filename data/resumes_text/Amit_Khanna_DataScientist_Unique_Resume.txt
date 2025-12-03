@@ -1,0 +1,28 @@
+Amit Khanna
+Bangalore | +91-982005004 | amit.khanna@gmail.com
+https://linkedin.com/in/amit-khanna | https://github.com/amitk99
+SUMMARY
+Senior Data Scientist specialized in computer vision and generative AI with proven record of scalable model deployment.
+TECHNICAL SKILLS
+Programming: Python, Scala, SQL, R
+Machine Learning: Forecasting, Clustering, Deep Learning, LLM Integration
+Libraries: PyTorch, Hugging Face, NLTK, SpaCy, Transformers
+Visualization: Power BI, Looker, Matplotlib
+Big Data & Cloud: GCP, BigQuery, Spark, Kafka
+MLOps: Airflow, Docker, Jenkins, Kubernetes
+Soft Skills: Leadership, Data Storytelling, Problem Solving
+EDUCATION
+M.Tech in Artificial Intelligence | IIT Hyderabad | CGPA 8.9/10 | 2024
+EXPERIENCE
+Junior Data Scientist — Finlytics Pvt Ltd (2023–Present)
+(cid:127) Assisted in developing regression and classification models for credit risk analysis
+(cid:127) Automated data cleaning and preprocessing scripts with Pandas and SQL
+PROJECTS
+Sales Forecasting — Python, XGBoost
+(cid:127) Predicted monthly sales trends improving forecast accuracy by 20%
+Stock Price Prediction — Python, TensorFlow, Keras
+(cid:127) Implemented LSTM-based forecasting model achieving 92% accuracy
+CERTIFICATIONS
+(cid:127) Applied Data Science with Python — University of Michigan
+(cid:127) TensorFlow Developer Certificate — Google
+(cid:127) IBM Data Science Professional Certificate — Coursera
